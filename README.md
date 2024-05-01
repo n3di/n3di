@@ -1,4 +1,5 @@
 ### Hey, I'm nedi!
+<img src="https://github-widgetbox.vercel.app/api/profile?username=n3di&data=followers,repositories,stars,commits&theme=viridescent" />
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=n3di&color=ff5adb&style=for-the-badge">
 </a>
