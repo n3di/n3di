@@ -48,7 +48,7 @@
       <img alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" />
     </td>
     <td>
-      <img alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50" />
+      <img alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="50" height="50" />
     </td>
     <td>
       <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" />
