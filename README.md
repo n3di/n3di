@@ -1,10 +1,13 @@
 ### Hey, I'm nedi!
-<img src="https://github-widgetbox.vercel.app/api/profile?username=n3di&data=followers,repositories,stars,commits&theme=viridescent" />
+<a href="https://github.com/Jurredr/github-widgetbox">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=n3di&data=followers,repositories,stars,commits&theme=viridescent" />
+</a>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=n3di&color=ff5adb&style=for-the-badge">
 </a>
-
-<img src="https://discord.com/api/guilds/838105479841316924/widget.png?style=banner2" />
+<a href="https://discord.nedi.me/">
+  <img src="https://discord.com/api/guilds/838105479841316924/widget.png?style=banner2" />
+</a>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/atypicalmichas)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:hello@nedi.me)
